@@ -36,15 +36,6 @@ function Footer() {
           <h2 className={styles.linkHeading}>Links</h2>
           <ul className={styles.linkList}>
             <li>
-              <Link href="/rss">RSS feed</Link>
-            </li>
-            <li>
-              <Link href="/todo">Terms of Use</Link>
-            </li>
-            <li>
-              <Link href="/todo">Privacy Policy</Link>
-            </li>
-            <li>
               <a href="https://twitter.com/JoshWComeau">
                 Twitter
               </a>
