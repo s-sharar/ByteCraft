@@ -6,22 +6,23 @@
 
 <hr />
 
+### Note: Only the first blog is tailored to, the others are generated purely to fill out space.
+
+<hr />
+
 #### Features:
 
 <br />
 
 <ul>
   <li>
-    Robust user authentication using JWT and password encryption for enhanced security.
+  Server‑side rendering to ensure fast load times, smooth navigation, and a flawless user experience.
   </li>
   <li>
-    Advanced searching and filtering capabilities for job applications.
+   Interactive animations using Framer Motion to enhance visual appeal.
   </li>
   <li>
-    MongoDB is used as the database layer, and Mongoose for data modeling, ensuring efficient storage, retrieval and manipulation of job application and user data.
-  </li>
-  <li>
-  Visualizes job application data using Recharts for clear, interactive graphs, helping users keep track of job statuses.
+    A dark mode toggle with persistent user settings using cookies and cookie libraries, ensuring a consistent user experience.
   </li>
   <li>
     and many more
