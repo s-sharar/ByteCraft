@@ -12,7 +12,6 @@
 
 #### Features:
 
-<br />
 
 <ul>
   <li>
